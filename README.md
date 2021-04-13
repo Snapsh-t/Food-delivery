@@ -22,6 +22,7 @@ To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **r
 3. BOOTSTRAP 4
 4. AJAX
 5. JQUERY
+6. CSS
 
 ## System Requirements
 
